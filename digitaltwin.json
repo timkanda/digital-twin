@@ -1,0 +1,317 @@
+{
+  "personal": {
+    "name": "Timothy Kipchirchir Kanda",
+    "title": "Graduate Software Developer",
+    "location": "Sydney, NSW, Australia",
+    "summary": "Graduate Software Developer with a Master of Information Technology (Software Development specialisation) from Swinburne University. Hands-on experience building full-stack, cloud-deployed applications across the full SDLC, including data-intensive systems, automation, and AI-assisted workflows. Strong focus on clean architecture, reliability, and real-world impact.",
+    "elevator_pitch": "I'm Timothy, a software developer with a Master's in IT from Swinburne University. I've built production-ready full-stack applications using Next.js, TypeScript, and AWS, with a focus on clean architecture and AI integration. My internship project—an AI-driven participation management system—reduced manual work by 20 hours per week and automated 90% of admin tasks. I'm passionate about solving real problems with well-engineered software.",
+    "contact": {
+      "email": "tmthkanda@gmail.com",
+      "phone": "+61 435 426 947",
+      "linkedin": "https://www.linkedin.com/in/timothy-kanda-aaa190b4",
+      "github": "https://github.com/timkanda",
+      "portfolio": ""
+    }
+  },
+  "salary_location": {
+    "current_salary": "Graduate level",
+    "salary_expectations": "$65,000 - $80,000 AUD based on role complexity and company size",
+    "location_preferences": ["Sydney CBD", "Remote", "Hybrid"],
+    "relocation_willing": true,
+    "remote_experience": "Experience with remote collaboration through Agile sprints and distributed team workflows",
+    "travel_availability": "Available for interstate travel as needed",
+    "work_authorization": "Eligible to work in Australia"
+  },
+  "experience": [
+    {
+      "company": "Employability Advantage × AusBiz Consulting",
+      "title": "Full Stack Developer Intern",
+      "duration": "April 2025 - July 2025 (4 months)",
+      "company_context": "Industry placement program connecting graduates with real-world consulting projects",
+      "team_structure": "Worked in Agile sprints with industry mentors and cross-functional teams",
+      "achievements_star": [
+        {
+          "situation": "Manual student participation tracking and project allocation was time-consuming and error-prone, taking administrators 20+ hours per week",
+          "task": "Design and build an AI-driven participation management system to automate allocation and improve accuracy",
+          "action": "Developed full-stack features using Next.js, TypeScript, Prisma, and PostgreSQL. Implemented deterministic and fuzzy matching with human-in-the-loop confirmation. Built dashboards, reporting modules, and CSV data workflows. Designed append-only event and audit-safe workflows.",
+          "result": "Reduced manual work by 20 hours per week, automated 90% of admin tasks, improved allocation satisfaction by 85%, achieved 99.9% system uptime"
+        },
+        {
+          "situation": "Application needed secure multi-user access with different permission levels for administrators, mentors, and students",
+          "task": "Implement robust authentication and access control system",
+          "action": "Built authentication using NextAuth.js with OAuth integration, implemented role-based access control (RBAC) with fine-grained permissions",
+          "result": "Secure, scalable authentication system supporting multiple user roles with audit logging"
+        },
+        {
+          "situation": "Stakeholders needed real-time visibility into participation data and compliance metrics",
+          "task": "Create comprehensive reporting and dashboard functionality",
+          "action": "Built interactive dashboards with data visualization, implemented CSV export/import workflows, created compliance reporting features",
+          "result": "Enabled data-driven decision making with real-time insights and automated compliance reporting"
+        }
+      ],
+      "technical_skills_used": ["Next.js", "TypeScript", "Prisma ORM", "PostgreSQL", "NextAuth.js", "OpenAI API", "AWS", "Vercel", "CI/CD"],
+      "leadership_examples": ["Collaborated with industry mentors in Agile sprints", "Contributed to technical design decisions", "Participated in code reviews"],
+      "budget_managed": "N/A",
+      "team_size_managed": 0
+    },
+    {
+      "company": "The Kenyan Diaspora Media",
+      "title": "Website Manager & Web Developer",
+      "duration": "March 2022 - Present (3+ years)",
+      "company_context": "Media organization serving the Kenyan diaspora community",
+      "team_structure": "Collaborated with design and marketing teams",
+      "achievements_star": [
+        {
+          "situation": "Non-technical content team struggled with website updates and content management",
+          "task": "Streamline content workflows and improve site maintainability",
+          "action": "Implemented CMS workflows tailored for non-technical users, developed custom WordPress plugins, optimized backend features",
+          "result": "Enabled autonomous content management by non-technical staff, improved site performance and traffic growth"
+        },
+        {
+          "situation": "Website needed custom functionality beyond standard WordPress capabilities",
+          "task": "Extend platform capabilities with custom development",
+          "action": "Developed custom plugins and backend features using PHP, implemented performance monitoring",
+          "result": "Enhanced site functionality while maintaining stability and performance"
+        }
+      ],
+      "technical_skills_used": ["WordPress", "PHP", "MySQL", "HTML5", "CSS3", "JavaScript"],
+      "leadership_examples": ["Managed full website lifecycle independently", "Coordinated with cross-functional teams", "Mentored on CMS best practices"],
+      "budget_managed": "N/A",
+      "team_size_managed": 0
+    },
+    {
+      "company": "Kipdev WP Solutions",
+      "title": "Web Developer Intern",
+      "duration": "March 2022 - October 2022 (8 months)",
+      "company_context": "Web development agency specializing in WordPress solutions",
+      "team_structure": "Junior developer working with senior developers on client projects",
+      "achievements_star": [
+        {
+          "situation": "Clients needed custom web solutions with user authentication capabilities",
+          "task": "Develop and deliver full web development lifecycle projects",
+          "action": "Worked across the full web development lifecycle, implemented user registration and authentication systems, integrated WordPress CMS solutions, assisted with debugging and deployment",
+          "result": "Successfully delivered client projects on time with functional authentication and CMS integration"
+        }
+      ],
+      "technical_skills_used": ["WordPress", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "leadership_examples": ["Took ownership of specific features", "Collaborated on debugging sessions"],
+      "budget_managed": "N/A",
+      "team_size_managed": 0
+    }
+  ],
+  "skills": {
+    "technical": {
+      "programming_languages": [
+        {"language": "TypeScript", "years": 2, "proficiency": "Advanced", "frameworks": ["Next.js", "Node.js", "React"]},
+        {"language": "JavaScript", "years": 3, "proficiency": "Advanced", "frameworks": ["React", "Next.js", "Node.js"]},
+        {"language": "PHP", "years": 3, "proficiency": "Intermediate", "frameworks": ["WordPress"]},
+        {"language": "Java", "years": 1, "proficiency": "Intermediate", "frameworks": ["OOP Principles"], "note": "Object-Oriented Programming coursework (HD - 88%)"},
+        {"language": "Python", "years": 1, "proficiency": "Intermediate", "frameworks": ["Data Analysis", "Scripting"], "note": "Big Data and automation coursework"}
+      ],
+      "frontend": ["React", "Next.js (App Router, SSR)", "HTML5", "CSS3", "Tailwind CSS", "shadcn/ui"],
+      "backend": ["Node.js", "TypeScript", "REST APIs", "Authentication (NextAuth.js, OAuth)", "PHP (WordPress)"],
+      "databases": ["PostgreSQL (2 years)", "MySQL (3 years)", "Prisma ORM (1 year)"],
+      "cloud_platforms": ["AWS (EC2, S3, RDS, Amplify)", "Vercel", "CI/CD pipelines"],
+      "ai_ml": ["OpenAI API", "AWS Bedrock", "AI-assisted workflows", "CRON-based automation"]
+    },
+    "soft_skills": ["Problem-solving", "System Design Thinking", "Clear Communication", "Agile/Scrum", "Cross-functional Collaboration", "Attention to Data Quality", "Scalability Decision Making"],
+    "certifications": [
+      {"name": "10-Week Full Stack Developer Live Industry Internship", "provider": "Employability Advantage × AusBiz Consulting", "year": 2025},
+      {"name": "Full-Stack with AWS Cloud Bootcamp", "provider": "AusBiz Consulting", "year": 2024},
+      {"name": "Web Development Program Bootcamp", "provider": "eMobilis Institute (Mastercard Foundation Scholarship)", "year": 2022}
+    ]
+  },
+  "education": {
+    "university": "Swinburne University of Technology",
+    "degree": "Master of Information Technology",
+    "specialisation": "Software Development",
+    "graduation_year": 2025,
+    "location": "Sydney, Australia",
+    "relevant_coursework": [
+      "Object-Oriented Programming",
+      "Software Quality and Testing",
+      "Web Application Development",
+      "Cloud Computing Architecture",
+      "Big Data",
+      "Data Management for the Big Data Age",
+      "User-Centred Design",
+      "Networks and Switching",
+      "Technology Design Project",
+      "Technology Application Project (Capstone)"
+    ]
+  },
+  "projects_portfolio": [
+    {
+      "name": "Digital Twin RAG Interview Assistant",
+      "type": "Personal Project",
+      "description": "AI-powered interview preparation system using Retrieval-Augmented Generation (RAG) to create a digital twin that answers interview questions based on personal professional data.",
+      "technologies": ["Python", "Upstash Vector Database", "Groq API", "Model Context Protocol (MCP)", "LLM Integration", "Embeddings"],
+      "key_features": [
+        "Vector database for semantic search of professional profile",
+        "RAG pipeline for context-aware interview responses",
+        "MCP server integration for AI assistant connectivity",
+        "Automated embedding generation from JSON profile data",
+        "Real-time query processing with LLM"
+      ],
+      "impact": {
+        "description": "Enables personalized AI-assisted interview preparation with context-aware responses based on actual experience"
+      },
+      "github_url": "https://github.com/timkanda/digital-twin",
+      "live_demo": ""
+    },
+    {
+      "name": "AI Participation Management System",
+      "type": "Industry Project",
+      "description": "AI-driven platform for managing student participation and automating project allocation with deterministic and fuzzy matching capabilities.",
+      "technologies": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "OpenAI API", "NextAuth.js", "Vercel"],
+      "key_features": [
+        "CSV enrolment import and matching workflow",
+        "Deterministic and fuzzy matching with human-in-the-loop confirmation",
+        "Dashboards and compliance reporting features",
+        "Append-only event and audit-safe workflows",
+        "Role-based access control"
+      ],
+      "impact": {
+        "manual_work_reduction": "20 hours per week",
+        "admin_tasks_automated": "90%",
+        "allocation_satisfaction_improvement": "85%",
+        "system_uptime": "99.9%"
+      },
+      "github_url": "",
+      "live_demo": ""
+    },
+    {
+      "name": "The Kenyan Diaspora Media Website",
+      "type": "Production Website",
+      "description": "Full website management and custom development for media organization serving the Kenyan diaspora community.",
+      "technologies": ["WordPress", "PHP", "MySQL", "HTML5", "CSS3", "JavaScript"],
+      "key_features": [
+        "Custom WordPress plugins",
+        "CMS workflows for non-technical users",
+        "Performance optimization",
+        "Content management system"
+      ],
+      "impact": {
+        "description": "Enabled autonomous content management and improved site traffic"
+      },
+      "github_url": "",
+      "live_demo": ""
+    }
+  ],
+  "career_goals": {
+    "short_term": "Secure a Graduate/Junior Software Developer role where I can contribute to meaningful projects while continuing to grow my full-stack and cloud development skills",
+    "long_term": "Progress to a Senior Software Engineer or Technical Lead role, specializing in AI-integrated systems and scalable cloud architectures",
+    "learning_focus": ["Advanced system design", "AI/ML integration", "Cloud architecture (AWS)", "DevOps practices", "Leadership skills"],
+    "industries_interested": ["Technology", "SaaS", "EdTech", "AI/ML", "Fintech", "Enterprise Software"]
+  },
+  "interview_prep": {
+    "common_questions": {
+      "behavioral": [
+        {
+          "question": "Tell me about a time you had to solve a complex technical problem",
+          "answer": "During my internship, I faced the challenge of implementing a matching system that needed to handle both exact and fuzzy matches for student allocation. I designed a multi-stage approach: first deterministic matching on unique identifiers, then fuzzy matching using similarity algorithms, with a human-in-the-loop confirmation step for uncertain matches. This reduced manual work by 20 hours per week while maintaining 85% allocation satisfaction."
+        },
+        {
+          "question": "Describe a project where you had to learn a new technology quickly",
+          "answer": "When I started my internship, I needed to quickly get up to speed with Prisma ORM and NextAuth.js for authentication. I dedicated extra hours to documentation and tutorials, built small proof-of-concept features, and asked questions during code reviews. Within two weeks, I was contributing full features independently."
+        },
+        {
+          "question": "How do you handle conflicting priorities and tight deadlines?",
+          "answer": "I prioritize based on business impact and dependencies. During my internship, I used Agile sprint planning to break work into manageable chunks and communicated early if timelines were at risk. I focus on delivering the most critical functionality first while keeping stakeholders informed."
+        },
+        {
+          "question": "Tell me about a time you worked effectively in a team",
+          "answer": "At my internship, I worked in Agile sprints with industry mentors and collaborated across design, product, and engineering. I actively participated in sprint planning, daily standups, and retrospectives. When conflicts arose about technical approaches, I presented data-driven arguments and remained open to alternative solutions."
+        }
+      ],
+      "technical": [
+        {
+          "question": "Walk me through your approach to building a full-stack application",
+          "answer": "I start by understanding requirements and designing the data model. I then set up the project structure with Next.js for the frontend, define API routes for the backend, and configure Prisma with PostgreSQL for data persistence. I implement authentication early, build features iteratively with testing, and deploy to Vercel or AWS with CI/CD pipelines."
+        },
+        {
+          "question": "How would you design an authentication system?",
+          "answer": "I would use NextAuth.js with OAuth providers for social login and credentials for email/password. I'd implement JWT or session-based auth with secure httpOnly cookies, role-based access control for authorization, and password hashing with bcrypt. For sensitive operations, I'd add rate limiting and audit logging."
+        },
+        {
+          "question": "Explain your experience with databases and ORMs",
+          "answer": "I've worked with PostgreSQL and MySQL in production. I use Prisma ORM for type-safe database access, which provides excellent TypeScript integration, migrations, and query building. I understand when to use raw SQL for complex queries and how to optimize with indexes and proper schema design."
+        },
+        {
+          "question": "How do you ensure code quality?",
+          "answer": "I follow clean architecture principles, write meaningful variable names, and keep functions focused. I use TypeScript for type safety, implement unit and integration tests, participate in code reviews, and follow Git workflows with meaningful commits. I also document complex logic and maintain consistent coding standards."
+        }
+      ],
+      "situational": [
+        {
+          "question": "A critical production bug is affecting users. Walk me through your response",
+          "answer": "First, I'd assess severity and impact scope. I'd communicate immediately with stakeholders about the issue. Then I'd check logs and monitoring to identify the root cause, implement a quick fix or rollback if available, test the fix thoroughly, and deploy with proper verification. Finally, I'd document the incident and discuss prevention measures in a retrospective."
+        },
+        {
+          "question": "How would you approach a feature where requirements are unclear?",
+          "answer": "I'd start by gathering more context from stakeholders and asking clarifying questions. I'd document my understanding and share it for validation. I'd build a small prototype or MVP to get early feedback, iterate based on that feedback, and maintain regular communication throughout development."
+        },
+        {
+          "question": "How do you handle disagreements with team members about technical decisions?",
+          "answer": "I listen to understand their perspective and reasoning first. I present my viewpoint with data and examples, focusing on trade-offs rather than being \"right.\" If we can't reach consensus, I'd suggest we prototype both approaches or escalate to a senior engineer for guidance. I always respect the final decision and commit to it fully."
+        }
+      ],
+      "company_research": {
+        "research_areas": ["Company mission and values", "Product and technology stack", "Engineering culture and team structure", "Recent news and growth trajectory", "Technical challenges they're solving"],
+        "preparation_questions": [
+          "What excites you about our product/mission?",
+          "Why do you want to work here specifically?",
+          "What would success look like in this role after 6 months?",
+          "How does the engineering team collaborate?",
+          "What are the biggest technical challenges the team is currently facing?"
+        ]
+      }
+    },
+    "weakness_mitigation": [
+      {
+        "weakness": "Limited professional experience (graduate level)",
+        "mitigation": "I've maximized learning through my internship, bootcamps, and personal projects. My internship project achieved production-level metrics (99.9% uptime, 90% automation). I'm a fast learner who quickly becomes productive in new environments."
+      },
+      {
+        "weakness": "Still developing expertise in advanced system design patterns",
+        "mitigation": "I'm actively studying system design through courses and books. I apply these concepts in my projects and discuss trade-offs with mentors. My AI Participation System demonstrates my understanding of scalable, audit-safe architecture."
+      },
+      {
+        "weakness": "Limited experience with microservices architecture",
+        "mitigation": "I have strong foundations in monolithic applications and understand the principles of service decomposition. I'm studying microservices patterns and container orchestration to prepare for more complex architectures."
+      }
+    ],
+    "questions_to_ask_interviewer": [
+      "What does a typical day look like for someone in this role?",
+      "How does the team approach code reviews and knowledge sharing?",
+      "What opportunities are there for learning and professional development?",
+      "What are the team's biggest priorities for the next 6-12 months?",
+      "How do you measure success for someone in this position?",
+      "What's the onboarding process like for new developers?"
+    ]
+  },
+  "professional_development": {
+    "recent_learning": ["Full-stack development with Next.js and TypeScript", "AI integration with OpenAI API", "AWS cloud services", "Database design with Prisma ORM", "Authentication and security best practices"],
+    "conferences_attended": [],
+    "publications": [],
+    "open_source": [],
+    "continuous_learning": ["System design fundamentals", "Advanced TypeScript patterns", "Cloud architecture (AWS)", "DevOps and CI/CD practices"]
+  },
+  "interview_signal_summary": {
+    "strengths": [
+      "Strong problem-solving and system design thinking",
+      "Production-level awareness of data quality and auditability",
+      "Clear communication and reasoning",
+      "Good judgment in trade-offs and scalability decisions",
+      "Full-stack capabilities across frontend, backend, and cloud",
+      "Experience with AI integration and automation"
+    ],
+    "recommended_for": [
+      "Graduate Software Developer",
+      "Junior Software Engineer",
+      "Full-Stack Developer",
+      "Backend-Focused Junior Roles"
+    ],
+    "unique_value_proposition": "I bring a rare combination of academic foundation (Master's in IT), hands-on full-stack development experience, and proven ability to deliver impactful results (90% automation, 20 hours saved weekly). I understand both the technical and business sides of software development."
+  }
+}
